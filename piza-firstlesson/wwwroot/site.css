@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(174, 255, 173);
+}
+#contentAll{
+    display: flex;
+    flex-direction: row;
+}
+#services{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255, 0.6);
+}
+#details{
+    background-color: rgb(255, 255, 255, 0.6);
+    
+}

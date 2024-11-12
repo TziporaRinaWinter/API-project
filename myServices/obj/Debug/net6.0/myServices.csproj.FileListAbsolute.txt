@@ -1,0 +1,342 @@
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+D:\API\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.deps.json
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.dll
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.dll
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.dll
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\refint\myServices.dll
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\ref\myServices.dll
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.deps.json
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.dll
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.dll
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.dll
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.pdb
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.dll
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\refint\myServices.dll
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.pdb
+H:\webAPI\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\ref\myServices.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\ref\myServices.dll
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.deps.json
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.dll
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myServices.pdb
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.dll
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.dll
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.dll
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myModels.pdb
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\myInterfaces.pdb
+H:\API\ffffffffffffffffffffff\myServices\bin\Debug\net6.0\fileService.pdb
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.dll
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\refint\myServices.dll
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\myServices.pdb
+H:\API\ffffffffffffffffffffff\myServices\obj\Debug\net6.0\ref\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myServices\obj\Debug\net6.0\ref\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myServices\obj\Debug\net6.0\ref\myServices.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\refint\myServices.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.deps.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\myServices.csproj.CopyComplete
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myServices\obj\Debug\net6.0\ref\myServices.dll

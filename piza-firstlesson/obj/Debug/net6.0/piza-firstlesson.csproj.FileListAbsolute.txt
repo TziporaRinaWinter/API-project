@@ -1,0 +1,897 @@
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webAPI\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\webAPI\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\webAPI\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+D:\API\webAPI\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.dll
+F:\Pizza3\pizza-2\obj\Debug\net6.0\refint\piza-firstlesson.dll
+F:\Pizza3\pizza-2\obj\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+D:\API\webAPI\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+F:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Pizza3\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\Pizza3\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+F:\API ח כסלו\צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+D:\API\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+D:\API\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\webAPI\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+H:\API\ffffffffffffffffffffff\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\API\ffffffffffffffffffffff\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets\msbuild.piza-firstlesson.Microsoft.AspNetCore.StaticWebAssets.props
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets\msbuild.build.piza-firstlesson.props
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.piza-firstlesson.props
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.piza-firstlesson.props
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.pack.json
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+H:\6 כב כסלו צפורה  רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\refint\piza-firstlesson.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\readwrite.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\File\workers.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.staticwebassets.runtime.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.exe
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.deps.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.runtimeconfig.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\piza-firstlesson.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myServices.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\bin\Debug\net6.0\fileService.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.AssemblyInfo.cs
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\scopedcss\bundle\piza-firstlesson.styles.css
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.csproj.CopyComplete
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\piza-firstlesson.genruntimeconfig.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\piza-firstlesson\obj\Debug\net6.0\ref\piza-firstlesson.dll

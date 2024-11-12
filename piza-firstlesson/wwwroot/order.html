@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>orderPIZZA</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+
+<body>
+    <fieldset>
+        <legend>customer details</legend>
+        id:<input type="text" name="cusid" id="cusid">
+        name:<input type="text" name="cusname" id="cusname">
+    </fieldset>
+    <fieldset>
+        <legend>order details</legend>
+        <label for="iditem">order pizza by id:
+            <input type="number" name="iditem" id="iditem">
+            <input type="number" name="qitem" id="qitem">
+        </label>
+        <button onclick="additem()">add pizza</button>
+    </fieldset>
+    <fieldset>
+        <legend>credit card details</legend>
+        credit card num:<input type="text" name="ccnum" id="ccnum">
+        expires:<input type="text" name="expires" id="expires">
+        cvv:<input type="text" name="cvv" id="cvv">
+        <button type="submit" onclick="order()">pay</button>
+    </fieldset>
+</body>
+<script src="./js/site.js" asp-append-version="true"></script>
+
+</html>

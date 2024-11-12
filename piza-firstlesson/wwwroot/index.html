@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+
+<body>
+    <div id="contentAll">
+        <div id="details">
+            🍕🍕🍕PIZZAS:
+            <table>
+                <tbody id="pizzatbody">
+                </tbody>
+            </table>
+            <br><br>
+            👨🏻‍💼👨🏻‍💼👨🏻‍💼WORKERS:
+            <table>
+                <tbody id="workertbody">
+                </tbody>
+            </table>
+        </div>
+        <div id="services">
+            <fieldset>
+                <legend>🔐LOGIN</legend>
+                name:<input type="text" id="logname">
+                pass word:<input type="text" name="logpassword" id="logpassword">
+                <button type="submit" onclick="login()">logIn</button>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>👨🏻‍💼WORKERS</legend>
+            <button type="button" onclick="getAllWorkers()">getAllWorkers</button>
+            <br>
+            <label for="Byid">get worker by id:
+                <input type="number" name="wByid" id="wByid">
+            </label>
+            <button type="submit" onclick="getWorkerById()">get by id</button>
+            <br>
+            <fieldset>
+                <legend>create worker</legend>
+                name:<input type="text" id="createWorkerName">
+                password:<input type="text" name="createWorkerpass" id="createWorkerpass">
+                role<input type="text" name="createWorkerRole" id="createWorkerRole">
+                <button type="submit" onclick="createWorker()">press to create</button>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>change worker</legend>
+                id of worker:<input type="number" name="idWorker" id="idWorker">
+                new password:<input type="text" name="newWorkerPassword" id="newWorkerPassword">
+                new name:<input type="text" name="newWorkerName" id="newWorkerName">
+                new role:<input type="text" name="newWorkerRole" id="newWorkerRole">
+                <button type="submit" onclick="changeWorker()">press to change</button>
+            </fieldset>
+            </fieldset>
+            <fieldset>
+                <legend>🍕PIZZAS</legend>
+            <button type="button" onclick="getAllPizzas()">getAllPizzas</button>
+            <br>
+            <label for="Byid">get pizza by id:
+                <input type="number" name="Byid" id="Byid">
+            </label>
+            <button type="submit" onclick="getById()">get by id</button>
+            <br>
+            <fieldset>
+                <legend>create pizza</legend>
+                name:<input type="text" id="createName">
+                price:<input type="number" name="createPrice" id="createPrice">
+                is gluten?<input type="radio" name="createGluten" id="createGluten">
+                <button type="submit" onclick="create()">press to create</button>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>change pizza</legend>
+                id of pizza:<input type="number" name="idname" id="idname">
+                new price:<input type="number" name="price" id="price">
+                the new name:<input type="text" name="new_name" id="new_name">
+                is gluten?<input type="radio" name="gluten" id="gluten">
+                <button type="submit" onclick="change()">press to change</button>
+            </fieldset>
+            </fieldset>
+        </div>
+    </div>
+    
+    <a href="./order.html">to order 🍕🍕🍕PIZZAS</a>
+</body>
+<script src="./js/site.js" asp-append-version="true"></script>
+</html>

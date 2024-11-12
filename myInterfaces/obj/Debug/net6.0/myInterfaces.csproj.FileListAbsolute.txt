@@ -1,0 +1,270 @@
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+D:\API\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ח כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\טו כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.dll
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+H:\API\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+H:\API\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+H:\API\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+H:\API\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.dll
+H:\API\ffffffffffffffffffffff\myInterfaces\bin\Debug\net6.0\myModels.pdb
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+H:\API\ffffffffffffffffffffff\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר 6\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\כב כסלו צפורה רינה וינטר לבנתיים\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\togit\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+H:\webAPI\6 כב כסלו צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\6 כב כסלו צפורה  חדש ממש רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+H:\6 כב כסלו צפורה  רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+D:\API\webAPI\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.deps.json
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\bin\Debug\net6.0\myModels.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.AssemblyInfo.cs
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.csproj.CopyComplete
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\refint\myInterfaces.dll
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\myInterfaces.pdb
+C:\Users\The user\Desktop\7 יד שבט צפורה רינה וינטר\myInterfaces\obj\Debug\net6.0\ref\myInterfaces.dll

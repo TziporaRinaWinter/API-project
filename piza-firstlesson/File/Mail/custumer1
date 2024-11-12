@@ -1,0 +1,11 @@
+CustomerId: 1, Date: 29/01/2024 16:15:29
+ pizza's id: 10,pizza's name: numberONE Quantity: 1, Price: 45
+ pizza's id: 7,pizza's name: olives Quantity: 1, Price: 25
+ TotalAmount: 70
+ thank you for buying in apiPIZZA!!!
+
+CustomerId: 1, Date: 29/01/2024 17:01:29
+  pizza's id: 1,pizza's name: shokolata Quantity: 0, Price: 0
+ TotalAmount: 0
+ thank you for buying in apiPIZZA!!!
+

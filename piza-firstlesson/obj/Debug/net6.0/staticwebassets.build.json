@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "MYraJ+745Q5rFqg0NhOlVoKcZatrU/xRQ2ftbEpgEC0=",
+  "Source": "piza-firstlesson",
+  "BasePath": "_content/piza-firstlesson",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "piza-firstlesson\\wwwroot",
+      "Source": "piza-firstlesson",
+      "ContentRoot": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\",
+      "BasePath": "_content/piza-firstlesson",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\index.html",
+      "SourceId": "piza-firstlesson",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\",
+      "BasePath": "_content/piza-firstlesson",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\js\\site.js",
+      "SourceId": "piza-firstlesson",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\",
+      "BasePath": "_content/piza-firstlesson",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\order.html",
+      "SourceId": "piza-firstlesson",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\",
+      "BasePath": "_content/piza-firstlesson",
+      "RelativePath": "order.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\order.html"
+    },
+    {
+      "Identity": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\site.css",
+      "SourceId": "piza-firstlesson",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API\\webAPI\\7 יד שבט צפורה רינה וינטר\\piza-firstlesson\\wwwroot\\",
+      "BasePath": "_content/piza-firstlesson",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}

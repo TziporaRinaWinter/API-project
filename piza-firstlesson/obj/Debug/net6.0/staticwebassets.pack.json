@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\6 כב כסלו צפורה  רינה וינטר\\piza-firstlesson\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "H:\\6 כב כסלו צפורה  רינה וינטר\\piza-firstlesson\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\6 כב כסלו צפורה  רינה וינטר\\piza-firstlesson\\wwwroot\\site.css",
+      "PackagePath": "staticwebassets\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.piza-firstlesson.props",
+      "PackagePath": "build\\piza-firstlesson.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.piza-firstlesson.props",
+      "PackagePath": "buildMultiTargeting\\piza-firstlesson.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.piza-firstlesson.props",
+      "PackagePath": "buildTransitive\\piza-firstlesson.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.piza-firstlesson.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

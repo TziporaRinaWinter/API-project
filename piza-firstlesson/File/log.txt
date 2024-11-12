@@ -1,0 +1,870 @@
+"the request:  date time: 12/12/2023 11:51:02 method: GETpath: /api/pizza/get protocol: HTTP/2"
+"the response:  date time: 12/12/2023 11:51:02 status code: 200"
+
+"the request:  date time: 12/12/2023 11:51:47 method: POSTpath: /api/Pizza/Create/jobra/true/78 protocol: HTTP/2"
+"the response:  date time: 12/12/2023 11:51:47 status code: 200"
+
+"the request:  date time: 12/12/2023 11:55:10 method: GET path: /api/pizza/GetById/7 protocol: HTTP/2"
+"the response:  date time: 12/12/2023 11:55:10 status code: 200"
+
+
+"the request:  date time: 12/12/2023 12:05:07 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the request:  date time: 12/12/2023 12:06:34 method: DELETE path: /api/Pizza/Delete/8 protocol: HTTP/2"
+"the request:  date time: 12/12/2023 12:06:43 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 12/12/2023 12:06:43 status code: 200"
+"the request:  date time: 12/12/2023 12:18:39 method: DELETE path: /api/Pizza/Delete/7 protocol: HTTP/2"
+"the request:  date time: 12/12/2023 12:21:28 method: POST path: /api/Pizza/Create/olives/true/25 protocol: HTTP/2"
+"the response:  date time: 12/12/2023 12:21:28 status code: 200"
+"the request:  date time: 12/12/2023 12:21:53 method: POST path: /api/Pizza/Create/blackolives/true/30 protocol: HTTP/2"
+"the response:  date time: 12/12/2023 12:21:53 status code: 200"
+"the request:  date time: 12/12/2023 12:22:12 method: POST path: /api/Pizza/Create/greenolives/false/25 protocol: HTTP/2"
+"the response:  date time: 12/12/2023 12:22:12 status code: 200"
+"the request:  date time: 14/12/2023 23:07:07 method: GET path: /api/Worker/GetById protocol: HTTP/2"
+"the request:  date time: 14/12/2023 23:09:57 method: GET path: /api/Worker/GetById/1 protocol: HTTP/2"
+"the request:  date time: 14/12/2023 23:11:45 method: GET path: /api/Worker/GetById/1 protocol: HTTP/2"
+"the request:  date time: 15/12/2023 00:09:37 method: GET path: /api/Worker/GetById/123 protocol: HTTP/2"
+"the request:  date time: 15/12/2023 00:10:30 method: GET path: /api/Worker/GetById/123 protocol: HTTP/1.1"
+"the request:  date time: 15/12/2023 00:15:34 method: GET path: /api/Worker/GetById/456 protocol: HTTP/2"
+"the request:  date time: 15/12/2023 00:17:11 method: GET path: /api/Worker/GetById/12456 protocol: HTTP/2"
+"the response:  date time: 15/12/2023 00:17:11 status code: 200"
+"the request:  date time: 15/12/2023 00:18:47 method: GET path: /api/Worker/GetById/123456789 protocol: HTTP/2"
+"the response:  date time: 15/12/2023 00:18:47 status code: 200"
+"the request:  date time: 15/12/2023 00:19:13 method: GET path: /api/Worker/GetById/1234 protocol: HTTP/2"
+"the response:  date time: 15/12/2023 00:19:13 status code: 200"
+"the request:  date time: 15/12/2023 00:19:20 method: GET path: /api/Worker/GetById/1456 protocol: HTTP/2"
+"the response:  date time: 15/12/2023 00:19:20 status code: 200"
+"the request:  date time: 17/12/2023 19:36:56 method: GET path: /api/Worker/GetById/12 protocol: HTTP/2"
+"the response:  date time: 17/12/2023 19:36:56 status code: 200"
+"the request:  date time: 17/12/2023 19:37:04 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 17/12/2023 19:37:04 status code: 200"
+"the request:  date time: 17/12/2023 19:39:08 method: GET path: /api/pizza/get protocol: HTTP/2"
+"the response:  date time: 17/12/2023 19:39:08 status code: 200"
+"the request:  date time: 17/12/2023 19:39:24 method: POST path: /api/pizza/Create/jjjjjjjjjjjjjjjjjjjjjjjjjjj/true/500 protocol: HTTP/2"
+"the response:  date time: 17/12/2023 19:39:24 status code: 200"
+"the request:  date time: 17/12/2023 19:39:27 method: GET path: /api/pizza/get protocol: HTTP/2"
+"the response:  date time: 17/12/2023 19:39:27 status code: 200"
+"the request:  date time: 17/12/2023 19:41:37 method: POST path: /api/Pizza/Create/gh/true/56 protocol: HTTP/2"
+"the response:  date time: 17/12/2023 19:41:37 status code: 200"
+"the request:  date time: 18/12/2023 23:15:25 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:15:25 status code: 200"
+"the request:  date time: 18/12/2023 23:16:08 method: POST path: /api/Worker/Create/tziporaRina/325588242/admin protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:16:08 status code: 200"
+"the request:  date time: 18/12/2023 23:16:42 method: POST path: /api/Worker/Create/naama/123456789/worker protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:16:42 status code: 200"
+"the request:  date time: 18/12/2023 23:16:52 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:16:52 status code: 200"
+"the request:  date time: 18/12/2023 23:18:50 method: POST path: /api/Worker/Create/rina/325588242/admin protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:18:50 status code: 200"
+"the request:  date time: 18/12/2023 23:19:13 method: POST path: /api/Worker/Create/naama/123456789/worker protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:19:13 status code: 200"
+"the request:  date time: 18/12/2023 23:19:36 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:19:36 status code: 200"
+"the request:  date time: 18/12/2023 23:22:01 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:22:01 status code: 200"
+"the request:  date time: 18/12/2023 23:22:18 method: GET path: /api/Worker/GetById/1 protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:22:18 status code: 200"
+"the request:  date time: 18/12/2023 23:23:06 method: PUT path: /api/Worker/UpDate/1/tziporaRina/987654321/admin protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:23:06 status code: 200"
+"the request:  date time: 18/12/2023 23:23:52 method: POST path: /api/Worker/Create/shosh/1234/superWorker protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:23:52 status code: 200"
+"the request:  date time: 18/12/2023 23:24:01 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the response:  date time: 18/12/2023 23:24:01 status code: 200"
+"the request:  date time: 19/12/2023 11:28:45 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the request:  date time: 19/12/2023 11:30:14 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the response:  date time: 19/12/2023 11:30:14 status code: 200"
+"the request:  date time: 19/12/2023 11:31:32 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the request:  date time: 19/12/2023 11:34:33 method: GET path: /api/Worker/Get protocol: HTTP/2"
+"the response:  date time: 19/12/2023 11:34:33 status code: 200"
+"the request:  date time: 19/12/2023 12:24:01 method: POST path: /api/Login/Login/Login protocol: HTTP/2"
+"the response:  date time: 19/12/2023 12:24:01 status code: 401"
+"the request:  date time: 19/12/2023 12:30:12 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%201,%20%20%20%22name%22:%20%22tziporaRina%22,%20%20%20%22passWord%22:%20%22987654321%22,%20%20%20%22role%22:%20%22Admin%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 12:30:12 status code: 401"
+"the request:  date time: 19/12/2023 13:09:29 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%201,%20%20%20%22name%22:%20%22tziporaRina%22,%20%20%20%22passWord%22:%20%22987654321%22,%20%20%20%22role%22:%20%22admin%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 13:09:30 status code: 200"
+"the request:  date time: 19/12/2023 18:50:22 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%201,%20%20%20%22name%22:%20%22tziporaRina%22,%20%20%20%22passWord%22:%20%22987654321%22,%20%20%20%22role%22:%20%22admin%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 18:50:22 status code: 200"
+"the request:  date time: 19/12/2023 18:51:02 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 19/12/2023 18:51:02 status code: 200"
+"the request:  date time: 19/12/2023 18:52:26 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%202,%20%20%20%22name%22:%20%22naama%22,%20%20%20%22passWord%22:%20%22123456789%22,%20%20%20%22role%22:%20%22worker%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 18:52:26 status code: 200"
+"the request:  date time: 19/12/2023 18:54:38 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%203,%20%20%20%22name%22:%20%22shosh%22,%20%20%20%22passWord%22:%20%221234%22,%20%20%20%22role%22:%20%22superWorker%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 18:54:38 status code: 200"
+"the request:  date time: 19/12/2023 19:09:42 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%203,%20%20%20%22name%22:%20%22naama%22,%20%20%20%22passWord%22:%20%22123456789%22,%20%20%20%22role%22:%20%22worker%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:09:42 status code: 401"
+"the request:  date time: 19/12/2023 19:10:19 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%202,%20%20%20%22name%22:%20%22naama%22,%20%20%20%22passWord%22:%20%22123456789%22,%20%20%20%22role%22:%20%22worker%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:10:19 status code: 200"
+"the request:  date time: 19/12/2023 19:10:50 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:10:50 status code: 200"
+"the request:  date time: 19/12/2023 19:12:08 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%203,%20%20%20%22name%22:%20%22shosh%22,%20%20%20%22passWord%22:%20%221234%22,%20%20%20%22role%22:%20%22superWorker%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:12:08 status code: 200"
+"the request:  date time: 19/12/2023 19:12:42 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:12:42 status code: 200"
+"the request:  date time: 19/12/2023 19:14:35 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%201,%20%20%20%22name%22:%20%22tziporaRina%22,%20%20%20%22passWord%22:%20%22987654321%22,%20%20%20%22role%22:%20%22admin%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:14:35 status code: 200"
+"the request:  date time: 19/12/2023 19:18:34 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:1,%20%20%20%22name%22:%20%22tziporaRina%22,%20%20%20%22passWord%22:%20%22987654321%22,%20%20%20%22role%22:%20%22admin%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:18:35 status code: 200"
+"the request:  date time: 19/12/2023 19:20:25 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:20:25 status code: 200"
+"the request:  date time: 19/12/2023 19:21:50 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:3,%20%20%20%22name%22:%20%22shosh%22,%20%20%20%22passWord%22:%20%221234%22,%20%20%20%22role%22:%20%22superWorker%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:21:50 status code: 200"
+"the request:  date time: 19/12/2023 19:32:48 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%201,%20%20%20%22name%22:%20%22tziporaRina%22,%20%20%20%22passWord%22:%20%22987654321%22,%20%20%20%22role%22:%20%22admin%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:32:48 status code: 200"
+"the request:  date time: 19/12/2023 19:35:16 method: POST path: /api/Login/Login/%7B%20%20%20%22id%22:%203,%20%20%20%22name%22:%20%22shosh%22,%20%20%20%22passWord%22:%20%221234%22,%20%20%20%22role%22:%20%22superWorker%22%20%7D protocol: HTTP/2"
+"the response:  date time: 19/12/2023 19:35:16 status code: 200"
+"the request:  date time: 20/12/2023 12:40:17 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 20/12/2023 12:40:18 status code: 200"
+"the request:  date time: 20/12/2023 12:41:29 method: GET path: /api/Pizza/Get protocol: HTTP/2"
+"the response:  date time: 20/12/2023 12:41:29 status code: 200"
+"the request:  date time: 20/12/2023 12:56:31 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 20/12/2023 12:56:31 status code: 200"
+"the request:  date time: 23/12/2023 22:07:33 method: GET path: /api/pizza/get protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:07:33 status code: 200"
+"the request:  date time: 23/12/2023 22:08:59 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:08:59 status code: 200"
+"the request:  date time: 23/12/2023 22:11:58 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 23/12/2023 22:11:58 status code: 415"
+"the request:  date time: 23/12/2023 22:14:24 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 23/12/2023 22:14:24 status code: 415"
+"the request:  date time: 23/12/2023 22:15:06 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 23/12/2023 22:15:06 status code: 415"
+"the request:  date time: 23/12/2023 22:16:43 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 23/12/2023 22:16:43 status code: 415"
+"the request:  date time: 23/12/2023 22:16:53 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 23/12/2023 22:16:53 status code: 415"
+"the request:  date time: 23/12/2023 22:17:44 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 23/12/2023 22:17:44 status code: 200"
+"the request:  date time: 23/12/2023 22:29:27 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:29:27 status code: 200"
+"the request:  date time: 23/12/2023 22:37:38 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:37:38 status code: 400"
+"the request:  date time: 23/12/2023 22:39:01 method: GET path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:39:01 status code: 405"
+"the request:  date time: 23/12/2023 22:43:29 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:43:29 status code: 400"
+"the request:  date time: 23/12/2023 22:44:42 method: GET path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:44:42 status code: 405"
+"the request:  date time: 23/12/2023 22:45:00 method: GET path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 23/12/2023 22:45:00 status code: 405"
+"the request:  date time: 24/12/2023 17:45:02 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 17:45:02 status code: 200"
+"the request:  date time: 24/12/2023 17:47:59 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 17:47:59 status code: 200"
+"the request:  date time: 24/12/2023 18:09:47 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 24/12/2023 18:09:47 status code: 401"
+"the request:  date time: 24/12/2023 18:10:18 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 24/12/2023 18:10:18 status code: 401"
+"the request:  date time: 24/12/2023 18:11:12 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 24/12/2023 18:11:12 status code: 401"
+"the request:  date time: 24/12/2023 18:11:45 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 24/12/2023 18:11:45 status code: 200"
+"the request:  date time: 24/12/2023 18:13:09 method: POST path: /api/Login/Login protocol: HTTP/1.1"
+"the response:  date time: 24/12/2023 18:13:09 status code: 200"
+"the request:  date time: 24/12/2023 18:14:00 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 18:14:00 status code: 200"
+"the request:  date time: 24/12/2023 21:46:51 method: GET path: /api/pizza/get protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:46:51 status code: 200"
+"the request:  date time: 24/12/2023 21:47:38 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:47:38 status code: 400"
+"the request:  date time: 24/12/2023 21:50:24 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:50:24 status code: 415"
+"the request:  date time: 24/12/2023 21:50:33 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:50:33 status code: 415"
+"the request:  date time: 24/12/2023 21:53:25 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:53:25 status code: 415"
+"the request:  date time: 24/12/2023 21:54:39 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:54:40 status code: 415"
+"the request:  date time: 24/12/2023 21:55:49 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:55:49 status code: 415"
+"the request:  date time: 24/12/2023 21:58:08 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:58:09 status code: 200"
+"the request:  date time: 24/12/2023 21:58:57 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:58:57 status code: 400"
+"the request:  date time: 24/12/2023 21:59:21 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 21:59:21 status code: 400"
+"the request:  date time: 24/12/2023 22:00:18 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:00:19 status code: 400"
+"the request:  date time: 24/12/2023 22:02:02 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:02:02 status code: 400"
+"the request:  date time: 24/12/2023 22:03:34 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:03:34 status code: 200"
+"the request:  date time: 24/12/2023 22:04:08 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:04:08 status code: 200"
+"the request:  date time: 24/12/2023 22:04:56 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:04:56 status code: 200"
+"the request:  date time: 24/12/2023 22:09:50 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:09:50 status code: 200"
+"the request:  date time: 24/12/2023 22:11:01 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:11:01 status code: 200"
+"the request:  date time: 24/12/2023 22:12:42 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:12:42 status code: 200"
+"the request:  date time: 24/12/2023 22:27:09 method: POST path: /api/Login/Login protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:27:09 status code: 200"
+"the request:  date time: 24/12/2023 22:30:01 method: GET path: /api/pizza/get protocol: HTTP/2"
+"the response:  date time: 24/12/2023 22:30:01 status code: 200"
+the request:  date time: 26/12/2023 23:34:51 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:34:51 status code: 404
+the request:  date time: 26/12/2023 23:35:06 method: GET path: /swagger protocol: HTTP/2
+the response:  date time: 26/12/2023 23:35:06 status code: 404
+the request:  date time: 26/12/2023 23:35:47 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:35:47 status code: 404
+the request:  date time: 26/12/2023 23:36:10 method: GET path: /swagger/index.html protocol: HTTP/2
+the response:  date time: 26/12/2023 23:36:10 status code: 404
+the request:  date time: 26/12/2023 23:36:15 method: GET path: /swagger/index.html protocol: HTTP/2
+the response:  date time: 26/12/2023 23:36:15 status code: 404
+the request:  date time: 26/12/2023 23:37:06 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:37:06 status code: 404
+the request:  date time: 26/12/2023 23:37:29 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:37:29 status code: 404
+the request:  date time: 26/12/2023 23:37:43 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:37:43 status code: 404
+the request:  date time: 26/12/2023 23:37:43 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:37:43 status code: 404
+the request:  date time: 26/12/2023 23:37:44 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:37:44 status code: 404
+the request:  date time: 26/12/2023 23:37:44 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:37:44 status code: 404
+the request:  date time: 26/12/2023 23:42:54 method: GET path: /swagger protocol: HTTP/2
+the response:  date time: 26/12/2023 23:42:54 status code: 404
+the request:  date time: 26/12/2023 23:43:12 method: GET path: /swagger/index.html protocol: HTTP/2
+the response:  date time: 26/12/2023 23:43:12 status code: 404
+the request:  date time: 26/12/2023 23:45:19 method: GET path: /swagger protocol: HTTP/2
+the response:  date time: 26/12/2023 23:45:19 status code: 404
+the request:  date time: 26/12/2023 23:48:37 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:48:37 status code: 404
+the request:  date time: 26/12/2023 23:48:50 method: GET path: /swagger protocol: HTTP/2
+the response:  date time: 26/12/2023 23:48:50 status code: 404
+the request:  date time: 26/12/2023 23:48:56 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:48:56 status code: 404
+the request:  date time: 26/12/2023 23:48:56 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:48:56 status code: 404
+the request:  date time: 26/12/2023 23:49:37 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:49:37 status code: 404
+the request:  date time: 26/12/2023 23:50:44 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:50:44 status code: 404
+the request:  date time: 26/12/2023 23:50:53 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:50:53 status code: 404
+the request:  date time: 26/12/2023 23:51:20 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:51:20 status code: 404
+the request:  date time: 26/12/2023 23:51:29 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:51:29 status code: 404
+the request:  date time: 26/12/2023 23:53:21 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:53:21 status code: 404
+the request:  date time: 26/12/2023 23:53:33 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:53:33 status code: 404
+the request:  date time: 26/12/2023 23:54:01 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:54:01 status code: 404
+the request:  date time: 26/12/2023 23:56:30 method: GET path: / protocol: HTTP/2
+the response:  date time: 26/12/2023 23:56:30 status code: 404
+the request:  date time: 26/12/2023 23:56:41 method: GET path: /swagger protocol: HTTP/2
+the response:  date time: 26/12/2023 23:56:41 status code: 404
+the request:  date time: 27/12/2023 00:03:12 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 27/12/2023 00:06:00 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:07:08 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 27/12/2023 00:11:52 method: GET path: /api/Worker/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:12:37 method: GET path: /api/Worker/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:14:53 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 27/12/2023 00:15:20 method: GET path: /api/Worker/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:15:47 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 27/12/2023 00:18:43 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 27/12/2023 00:19:14 method: GET path: /api/Worker/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:19:24 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:20:58 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 27/12/2023 00:20:59 status code: 200
+the request:  date time: 27/12/2023 00:21:32 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:24:08 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:29:13 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:31:37 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 00:31:56 method: GET path: /api/pizza/get protocol: HTTP/2
+the request:  date time: 27/12/2023 22:49:28 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 27/12/2023 22:49:28 status code: 200
+the request:  date time: 27/12/2023 22:50:01 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 22:50:29 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 27/12/2023 22:50:29 status code: 200
+the request:  date time: 27/12/2023 22:50:50 method: GET path: /api/Worker/GetById/2 protocol: HTTP/2
+the response:  date time: 27/12/2023 22:50:50 status code: 200
+the request:  date time: 27/12/2023 22:51:07 method: GET path: /api/Pizza/GetById/5 protocol: HTTP/2
+the request:  date time: 27/12/2023 22:51:40 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 27/12/2023 22:51:40 status code: 200
+the request:  date time: 27/12/2023 22:52:02 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 27/12/2023 22:52:02 status code: 200
+the request:  date time: 27/12/2023 22:52:33 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 22:54:20 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 22:59:55 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 27/12/2023 22:59:55 status code: 200
+the request:  date time: 27/12/2023 23:00:19 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 27/12/2023 23:00:19 status code: 200
+the request:  date time: 27/12/2023 23:00:30 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the request:  date time: 27/12/2023 23:01:39 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the response:  date time: 27/12/2023 23:01:39 status code: 200
+the request:  date time: 27/12/2023 23:01:55 method: GET path: /api/Pizza/GetById/3 protocol: HTTP/2
+the response:  date time: 27/12/2023 23:01:55 status code: 200
+the request:  date time: 27/12/2023 23:02:06 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 27/12/2023 23:02:06 status code: 200
+the request:  date time: 27/12/2023 23:02:51 method: PUT path: /api/Worker/UpDate/1/tzr/123/Admin protocol: HTTP/2
+the response:  date time: 27/12/2023 23:02:51 status code: 200
+the request:  date time: 27/12/2023 23:03:23 method: DELETE path: /api/Worker/Delete/0 protocol: HTTP/2
+the request:  date time: 02/01/2024 13:15:39 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 13:15:39 status code: 200
+the request:  date time: 02/01/2024 13:16:04 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 02/01/2024 13:16:04 status code: 200
+the request:  date time: 02/01/2024 13:18:44 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 13:18:44 status code: 200
+the request:  date time: 02/01/2024 13:19:10 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 02/01/2024 13:19:10 status code: 200
+the request:  date time: 02/01/2024 13:19:24 method: POST path: /api/Pizza/Create/poto/true/56 protocol: HTTP/2
+the response:  date time: 02/01/2024 13:19:24 status code: 200
+the request:  date time: 02/01/2024 13:19:39 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the response:  date time: 02/01/2024 13:19:39 status code: 200
+the request:  date time: 02/01/2024 15:19:15 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 15:19:15 status code: 200
+the request:  date time: 02/01/2024 16:06:25 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:06:25 status code: 404
+the request:  date time: 02/01/2024 16:07:19 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:07:19 status code: 200
+the request:  date time: 02/01/2024 16:10:28 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:10:28 status code: 404
+the request:  date time: 02/01/2024 16:12:41 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:12:41 status code: 404
+the request:  date time: 02/01/2024 16:12:55 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:12:55 status code: 404
+the request:  date time: 02/01/2024 16:13:07 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:13:07 status code: 404
+the request:  date time: 02/01/2024 16:13:28 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:13:28 status code: 404
+the request:  date time: 02/01/2024 16:17:04 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:17:04 status code: 404
+the request:  date time: 02/01/2024 16:17:53 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:17:53 status code: 404
+the request:  date time: 02/01/2024 16:18:33 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 02/01/2024 16:18:33 status code: 200
+the request:  date time: 02/01/2024 16:18:41 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 02/01/2024 16:18:41 status code: 200
+the request:  date time: 02/01/2024 16:20:28 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:20:28 status code: 404
+the request:  date time: 02/01/2024 16:21:00 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 02/01/2024 16:21:00 status code: 404
+the request:  date time: 03/01/2024 22:47:41 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 22:47:42 status code: 200
+the request:  date time: 03/01/2024 22:48:14 method: GET path: /api/Pizza/Get protocol: HTTP/2
+the response:  date time: 03/01/2024 22:48:14 status code: 200
+the request:  date time: 03/01/2024 22:49:03 method: PUT path: /api/Pizza/UpDate/10/numberONE/true/599 protocol: HTTP/2
+the response:  date time: 03/01/2024 22:49:03 status code: 200
+the request:  date time: 03/01/2024 22:49:26 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 03/01/2024 22:49:26 status code: 200
+the request:  date time: 03/01/2024 22:51:23 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 22:51:23 status code: 404
+the request:  date time: 03/01/2024 22:52:45 method: POST path: /api/Login/Login/Login protocol: HTTP/1.1
+the response:  date time: 03/01/2024 22:52:45 status code: 200
+the request:  date time: 03/01/2024 22:53:41 method: POST path: /api/Login/Login/Login protocol: HTTP/1.1
+the response:  date time: 03/01/2024 22:53:41 status code: 200
+the request:  date time: 03/01/2024 22:55:31 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 22:55:31 status code: 404
+the request:  date time: 03/01/2024 22:57:05 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 22:57:05 status code: 404
+the request:  date time: 03/01/2024 22:58:16 method: GET path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 22:58:16 status code: 404
+the request:  date time: 03/01/2024 23:00:07 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:00:07 status code: 404
+the request:  date time: 03/01/2024 23:00:34 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 03/01/2024 23:00:34 status code: 200
+the request:  date time: 03/01/2024 23:02:13 method: POST path: /api/Login/Login/Login protocol: HTTP/1.1
+the response:  date time: 03/01/2024 23:02:13 status code: 200
+the request:  date time: 03/01/2024 23:03:45 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:03:45 status code: 404
+the request:  date time: 03/01/2024 23:04:35 method: GET path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:04:35 status code: 404
+the request:  date time: 03/01/2024 23:08:54 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 03/01/2024 23:08:54 status code: 200
+the request:  date time: 03/01/2024 23:09:05 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:09:05 status code: 404
+the request:  date time: 03/01/2024 23:10:47 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:10:47 status code: 404
+the request:  date time: 03/01/2024 23:12:48 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:12:48 status code: 404
+the request:  date time: 03/01/2024 23:13:50 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:13:50 status code: 404
+the request:  date time: 03/01/2024 23:15:22 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:15:22 status code: 404
+the request:  date time: 03/01/2024 23:16:30 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:16:30 status code: 404
+the request:  date time: 03/01/2024 23:19:02 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:19:03 status code: 404
+the request:  date time: 03/01/2024 23:20:46 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:20:46 status code: 404
+the request:  date time: 03/01/2024 23:22:37 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:22:37 status code: 404
+the request:  date time: 03/01/2024 23:26:24 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:26:24 status code: 200
+the request:  date time: 03/01/2024 23:28:36 method: POST path: /api/Login/Login/Login%22 protocol: HTTP/2
+the response:  date time: 03/01/2024 23:28:36 status code: 404
+the request:  date time: 03/01/2024 23:29:18 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:29:18 status code: 415
+the request:  date time: 03/01/2024 23:33:22 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:33:22 status code: 200
+the request:  date time: 03/01/2024 23:34:41 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:34:41 status code: 200
+the request:  date time: 03/01/2024 23:37:40 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:37:40 status code: 200
+the request:  date time: 03/01/2024 23:38:58 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 03/01/2024 23:38:58 status code: 200
+the request:  date time: 03/01/2024 23:39:38 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:39:38 status code: 200
+the request:  date time: 03/01/2024 23:42:27 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:42:27 status code: 200
+the request:  date time: 03/01/2024 23:44:46 method: GET path: /api/worker/get protocol: HTTP/1.1
+the response:  date time: 03/01/2024 23:44:46 status code: 200
+the request:  date time: 03/01/2024 23:48:36 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:48:36 status code: 200
+the request:  date time: 03/01/2024 23:51:31 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:51:31 status code: 200
+the request:  date time: 03/01/2024 23:52:47 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:52:47 status code: 200
+the request:  date time: 03/01/2024 23:55:13 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:55:13 status code: 200
+the request:  date time: 03/01/2024 23:55:57 method: POST path: /api/Login/Login protocol: HTTP/2
+the response:  date time: 03/01/2024 23:55:57 status code: 404
+the request:  date time: 07/01/2024 17:09:39 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 07/01/2024 17:09:40 status code: 200
+the request:  date time: 07/01/2024 17:11:36 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 07/01/2024 17:11:37 status code: 200
+the request:  date time: 07/01/2024 17:13:33 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 07/01/2024 17:13:34 status code: 200
+the request:  date time: 07/01/2024 17:15:29 method: GET path: /api/worker/get protocol: HTTP/1.1
+the response:  date time: 07/01/2024 17:15:29 status code: 200
+the request:  date time: 07/01/2024 17:25:49 method: GET path: / protocol: HTTP/2
+the response:  date time: 07/01/2024 17:25:49 status code: 404
+the request:  date time: 07/01/2024 17:26:08 method: GET path: / protocol: HTTP/2
+the response:  date time: 07/01/2024 17:26:08 status code: 404
+the request:  date time: 07/01/2024 17:27:00 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 07/01/2024 17:27:01 status code: 200
+the request:  date time: 07/01/2024 17:29:48 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 07/01/2024 17:29:48 status code: 200
+the request:  date time: 07/01/2024 17:33:58 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 07/01/2024 17:33:58 status code: 200
+the request:  date time: 13/01/2024 22:59:57 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 22:59:58 status code: 200
+the request:  date time: 13/01/2024 23:01:24 method: GET path: /api/worker/get protocol: HTTP/1.1
+the response:  date time: 13/01/2024 23:01:24 status code: 200
+the request:  date time: 13/01/2024 23:07:44 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:07:44 status code: 200
+the request:  date time: 13/01/2024 23:09:17 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:09:17 status code: 200
+the request:  date time: 13/01/2024 23:09:20 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:09:20 status code: 200
+the request:  date time: 13/01/2024 23:10:56 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:10:56 status code: 200
+the request:  date time: 13/01/2024 23:11:33 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:11:33 status code: 200
+the request:  date time: 13/01/2024 23:11:44 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:11:44 status code: 200
+the request:  date time: 13/01/2024 23:16:14 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:16:14 status code: 200
+the request:  date time: 13/01/2024 23:16:20 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:16:20 status code: 200
+the request:  date time: 13/01/2024 23:17:16 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:17:17 status code: 200
+the request:  date time: 13/01/2024 23:17:27 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:17:27 status code: 200
+the request:  date time: 13/01/2024 23:18:20 method: POST path: /api/worker/Create/david/123s2/Worker protocol: HTTP/2
+the response:  date time: 13/01/2024 23:18:20 status code: 200
+the request:  date time: 13/01/2024 23:19:14 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:19:14 status code: 200
+the request:  date time: 13/01/2024 23:19:40 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:19:40 status code: 200
+the request:  date time: 13/01/2024 23:21:58 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:21:58 status code: 200
+the request:  date time: 13/01/2024 23:22:00 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:22:00 status code: 200
+the request:  date time: 13/01/2024 23:22:34 method: POST path: /api/worker/Create/moshe/123s3/Worker protocol: HTTP/2
+the response:  date time: 13/01/2024 23:22:34 status code: 200
+the request:  date time: 13/01/2024 23:22:36 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:22:36 status code: 200
+the request:  date time: 13/01/2024 23:24:08 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:24:08 status code: 200
+the request:  date time: 13/01/2024 23:24:22 method: POST path: /api/pizza/Create/dfghjk/true/45 protocol: HTTP/2
+the response:  date time: 13/01/2024 23:24:22 status code: 200
+the request:  date time: 13/01/2024 23:24:25 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:24:25 status code: 200
+the request:  date time: 13/01/2024 23:25:00 method: PUT path: /api/pizza/upDate/11/fufu/true/45 protocol: HTTP/2
+the response:  date time: 13/01/2024 23:25:00 status code: 200
+the request:  date time: 13/01/2024 23:25:07 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:25:07 status code: 200
+the request:  date time: 13/01/2024 23:26:57 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:26:58 status code: 200
+the request:  date time: 13/01/2024 23:27:13 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:27:13 status code: 200
+the request:  date time: 13/01/2024 23:30:05 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:30:05 status code: 200
+the request:  date time: 13/01/2024 23:30:26 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:30:26 status code: 200
+the request:  date time: 13/01/2024 23:30:51 method: PUT path: /api/worker/upDate/5/yedidya/123s3/Worker protocol: HTTP/2
+the response:  date time: 13/01/2024 23:30:51 status code: 200
+the request:  date time: 13/01/2024 23:30:54 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:30:54 status code: 200
+the request:  date time: 13/01/2024 23:31:20 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:31:20 status code: 200
+the request:  date time: 13/01/2024 23:34:32 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:34:32 status code: 200
+the request:  date time: 13/01/2024 23:34:49 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:34:49 status code: 200
+the request:  date time: 13/01/2024 23:35:15 method: PUT path: /api/pizza/upDate/11/exelent!/true/55 protocol: HTTP/2
+the response:  date time: 13/01/2024 23:35:15 status code: 200
+the request:  date time: 13/01/2024 23:35:20 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:35:20 status code: 200
+the request:  date time: 13/01/2024 23:35:41 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 13/01/2024 23:35:41 status code: 200
+the request:  date time: 13/01/2024 23:39:18 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:39:18 status code: 200
+the request:  date time: 13/01/2024 23:40:00 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:40:01 status code: 200
+the request:  date time: 13/01/2024 23:40:04 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:40:04 status code: 200
+the request:  date time: 13/01/2024 23:40:09 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:40:09 status code: 200
+the request:  date time: 13/01/2024 23:40:25 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:40:25 status code: 200
+the request:  date time: 13/01/2024 23:41:24 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:41:24 status code: 200
+the request:  date time: 13/01/2024 23:41:26 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:41:26 status code: 200
+the request:  date time: 13/01/2024 23:41:55 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:41:56 status code: 200
+the request:  date time: 13/01/2024 23:42:53 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:42:53 status code: 200
+the request:  date time: 13/01/2024 23:48:56 method: GET path: /piza-firstlesson/wwwroot/css/site.css protocol: HTTP/2
+the response:  date time: 13/01/2024 23:48:56 status code: 404
+the request:  date time: 13/01/2024 23:49:01 method: GET path: /piza-firstlesson/wwwroot/css/site.css protocol: HTTP/2
+the response:  date time: 13/01/2024 23:49:01 status code: 404
+the request:  date time: 13/01/2024 23:55:39 method: GET path: /api/worker/GetById/ protocol: HTTP/2
+the response:  date time: 13/01/2024 23:55:39 status code: 404
+the request:  date time: 13/01/2024 23:55:44 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/01/2024 23:55:44 status code: 200
+the request:  date time: 14/01/2024 00:03:13 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 14/01/2024 00:03:13 status code: 200
+the request:  date time: 14/01/2024 00:03:32 method: GET path: /api/worker/GetById/ protocol: HTTP/2
+the response:  date time: 14/01/2024 00:03:32 status code: 404
+the request:  date time: 14/01/2024 00:03:37 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 14/01/2024 00:03:38 method: POST path: /error-development protocol: HTTP/2
+the response:  date time: 14/01/2024 00:03:38 status code: 404
+the request:  date time: 14/01/2024 00:18:19 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 14/01/2024 00:18:19 status code: 200
+the request:  date time: 14/01/2024 00:28:17 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 14/01/2024 00:28:17 status code: 200
+the request:  date time: 14/01/2024 00:28:35 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 14/01/2024 00:28:35 status code: 200
+the request:  date time: 14/01/2024 00:28:37 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 14/01/2024 00:28:37 status code: 200
+the request:  date time: 21/01/2024 13:26:05 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 21/01/2024 13:26:05 status code: 200
+the request:  date time: 21/01/2024 13:26:06 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 21/01/2024 13:26:06 status code: 200
+the request:  date time: 21/01/2024 13:26:13 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 21/01/2024 13:26:13 status code: 200
+the request:  date time: 21/01/2024 13:30:16 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 21/01/2024 13:30:16 status code: 200
+the request:  date time: 21/01/2024 13:33:14 method: GET path: /api/Worker/Get protocol: HTTP/2
+the response:  date time: 21/01/2024 13:33:14 status code: 200
+the request:  date time: 21/01/2024 13:37:54 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 21/01/2024 13:37:55 status code: 200
+the request:  date time: 21/01/2024 13:38:01 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 21/01/2024 13:38:01 method: POST path: /error-development protocol: HTTP/2
+the response:  date time: 21/01/2024 13:38:01 status code: 404
+the request:  date time: 21/01/2024 13:38:06 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 21/01/2024 13:38:06 method: POST path: /error-development protocol: HTTP/2
+the response:  date time: 21/01/2024 13:38:06 status code: 404
+the request:  date time: 21/01/2024 13:39:47 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the request:  date time: 21/01/2024 13:39:47 method: POST path: /error-development protocol: HTTP/2
+the response:  date time: 21/01/2024 13:39:47 status code: 404
+the request:  date time: 21/01/2024 13:39:58 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 21/01/2024 13:39:59 status code: 200
+the request:  date time: 28/01/2024 20:15:34 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 28/01/2024 20:15:34 status code: 200
+the request:  date time: 28/01/2024 20:15:44 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:15:44 status code: 200
+the request:  date time: 28/01/2024 20:15:46 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:15:46 status code: 200
+the request:  date time: 28/01/2024 20:17:07 method: POST path: /api/worker/Create/baron/123w4/Worker protocol: HTTP/2
+the response:  date time: 28/01/2024 20:17:07 status code: 200
+the request:  date time: 28/01/2024 20:17:07 method: GET path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:17:07 status code: 404
+the request:  date time: 28/01/2024 20:17:40 method: GET path: /api/pizza/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:17:40 method: POST path: /api/pizza/Create/popo/true/40 protocol: HTTP/2
+the response:  date time: 28/01/2024 20:17:40 status code: 200
+the response:  date time: 28/01/2024 20:17:40 status code: 200
+the request:  date time: 28/01/2024 20:17:45 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:17:45 status code: 200
+the request:  date time: 28/01/2024 20:18:52 method: GET path: /api/worker/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:18:52 method: POST path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:18:52 status code: 404
+the response:  date time: 28/01/2024 20:18:52 status code: 200
+the request:  date time: 28/01/2024 20:19:56 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 28/01/2024 20:19:56 status code: 200
+the request:  date time: 28/01/2024 20:20:00 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:20:00 status code: 200
+the request:  date time: 28/01/2024 20:20:54 method: GET path: /api/worker/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:20:54 method: PUT path: /api/worker/upDate/6/gogo/123w4/SuperWorker protocol: HTTP/2
+the response:  date time: 28/01/2024 20:20:54 status code: 200
+the response:  date time: 28/01/2024 20:20:54 status code: 200
+the request:  date time: 28/01/2024 20:20:59 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:20:59 status code: 200
+the request:  date time: 28/01/2024 20:20:59 method: PUT path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:20:59 status code: 404
+the request:  date time: 28/01/2024 20:21:10 method: GET path: /api/worker/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:21:10 method: PUT path: /api/worker/upDate/6/gogo/123w4/SuperWorker protocol: HTTP/2
+the response:  date time: 28/01/2024 20:21:10 status code: 200
+the response:  date time: 28/01/2024 20:21:10 status code: 200
+the request:  date time: 28/01/2024 20:21:10 method: GET path: /api/worker/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:21:10 method: PUT path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:21:10 status code: 404
+the response:  date time: 28/01/2024 20:21:10 status code: 200
+the request:  date time: 28/01/2024 20:21:19 method: PUT path: /api/worker/upDate/6/lplp/123w4/SuperWorker protocol: HTTP/2
+the request:  date time: 28/01/2024 20:21:19 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:21:19 status code: 200
+the response:  date time: 28/01/2024 20:21:19 status code: 200
+the request:  date time: 28/01/2024 20:21:21 method: PUT path: /api/worker/upDate/6/lplp/123w4/SuperWorker protocol: HTTP/2
+the request:  date time: 28/01/2024 20:21:21 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:21:21 status code: 200
+the response:  date time: 28/01/2024 20:21:21 status code: 200
+the request:  date time: 28/01/2024 20:21:23 method: PUT path: /api/worker/upDate/6/lplp/123w4/SuperWorker protocol: HTTP/2
+the request:  date time: 28/01/2024 20:21:23 method: GET path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:21:23 status code: 404
+the response:  date time: 28/01/2024 20:21:23 status code: 200
+the request:  date time: 28/01/2024 20:22:26 method: PUT path: /api/worker/upDate/6/loplop/123sw2/SuperWorker protocol: HTTP/2
+the request:  date time: 28/01/2024 20:22:26 method: GET path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:22:26 status code: 404
+the response:  date time: 28/01/2024 20:22:26 status code: 200
+the request:  date time: 28/01/2024 20:22:31 method: PUT path: /api/worker/upDate/6/loplop/123sw2/SuperWorker protocol: HTTP/2
+the request:  date time: 28/01/2024 20:22:31 method: GET path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:22:31 status code: 404
+the response:  date time: 28/01/2024 20:22:31 status code: 200
+the request:  date time: 28/01/2024 20:23:01 method: PUT path: /api/worker/upDate/6/loplop/123sw2/SuperWorker protocol: HTTP/2
+the request:  date time: 28/01/2024 20:23:01 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:23:01 status code: 200
+the response:  date time: 28/01/2024 20:23:01 status code: 200
+the request:  date time: 28/01/2024 20:23:31 method: POST path: /api/worker/Create/gogo/123w4/Worker protocol: HTTP/2
+the response:  date time: 28/01/2024 20:23:31 status code: 200
+the request:  date time: 28/01/2024 20:23:34 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:23:34 status code: 200
+the request:  date time: 28/01/2024 20:24:16 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:24:16 status code: 200
+the request:  date time: 28/01/2024 20:24:33 method: GET path: /api/pizza/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:24:33 method: PUT path: /api/pizza/upDate/12/lapropo/true/56 protocol: HTTP/2
+the response:  date time: 28/01/2024 20:24:33 status code: 200
+the response:  date time: 28/01/2024 20:24:33 status code: 200
+the request:  date time: 28/01/2024 20:24:35 method: GET path: /api/pizza/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:24:35 method: PUT path: /api/pizza/upDate/12/lapropo/true/56 protocol: HTTP/2
+the response:  date time: 28/01/2024 20:24:35 status code: 200
+the response:  date time: 28/01/2024 20:24:35 status code: 200
+the request:  date time: 28/01/2024 20:24:37 method: GET path: /api/pizza/get protocol: HTTP/2
+the request:  date time: 28/01/2024 20:24:37 method: PUT path: /error-development protocol: HTTP/2
+the response:  date time: 28/01/2024 20:24:37 status code: 200
+the response:  date time: 28/01/2024 20:24:37 status code: 404
+the request:  date time: 28/01/2024 20:28:47 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:28:47 status code: 200
+the request:  date time: 28/01/2024 20:28:57 method: POST path: /api/Login/Login/Login protocol: HTTP/2
+the response:  date time: 28/01/2024 20:28:57 status code: 200
+the request:  date time: 28/01/2024 20:29:07 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:07 status code: 200
+the request:  date time: 28/01/2024 20:29:09 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:09 status code: 200
+the request:  date time: 28/01/2024 20:29:10 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:10 status code: 200
+the request:  date time: 28/01/2024 20:29:11 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:11 status code: 200
+the request:  date time: 28/01/2024 20:29:11 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:11 status code: 200
+the request:  date time: 28/01/2024 20:29:11 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:11 status code: 200
+the request:  date time: 28/01/2024 20:29:53 method: PUT path: /api/worker/upDate/1/rina/123a/Admin protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:53 status code: 200
+the request:  date time: 28/01/2024 20:29:56 method: PUT path: /api/worker/upDate/1/rina/123a/Admin protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:56 status code: 200
+the request:  date time: 28/01/2024 20:29:57 method: PUT path: /api/worker/upDate/1/rina/123a/Admin protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:57 status code: 200
+the request:  date time: 28/01/2024 20:29:59 method: GET path: /api/worker/get protocol: HTTP/2
+the response:  date time: 28/01/2024 20:29:59 status code: 200
+the request:  date time: 29/01/2024 17:37:32 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 17:37:42 status code: 200
+the request:  date time: 29/01/2024 18:16:51 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 18:17:01 status code: 200
+the request:  date time: 29/01/2024 18:21:12 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 18:21:22 status code: 200
+the request:  date time: 29/01/2024 18:28:18 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 18:28:28 status code: 200
+the request:  date time: 29/01/2024 18:29:21 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 18:29:31 status code: 200
+the request:  date time: 29/01/2024 19:12:45 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the request:  date time: 29/01/2024 19:12:55 method: POST path: /error-development protocol: HTTP/2
+the response:  date time: 29/01/2024 19:12:55 status code: 404
+the request:  date time: 29/01/2024 19:13:41 method: POST path: /api/Order/SendOrder protocol: HTTP/1.1
+the response:  date time: 29/01/2024 19:13:51 status code: 200
+the request:  date time: 29/01/2024 20:17:14 method: GET path: /api/pizza/GetById/%5Bobject%20HTMLInputElement%5D protocol: HTTP/2
+the response:  date time: 29/01/2024 20:17:14 status code: 400
+the request:  date time: 29/01/2024 20:24:43 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:24:43 status code: 200
+the request:  date time: 29/01/2024 20:26:00 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:26:00 status code: 200
+the request:  date time: 29/01/2024 20:27:32 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:27:32 status code: 200
+the request:  date time: 29/01/2024 20:27:43 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:27:43 status code: 200
+the request:  date time: 29/01/2024 20:29:11 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:29:11 status code: 200
+the request:  date time: 29/01/2024 20:32:10 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:32:10 status code: 200
+the request:  date time: 29/01/2024 20:32:38 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:32:38 status code: 200
+the request:  date time: 29/01/2024 20:52:19 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:52:19 status code: 200
+the request:  date time: 29/01/2024 20:52:25 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:52:25 status code: 200
+the request:  date time: 29/01/2024 20:52:44 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:52:44 status code: 200
+the request:  date time: 29/01/2024 20:56:00 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:56:00 status code: 200
+the request:  date time: 29/01/2024 20:56:14 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 20:56:14 status code: 200
+the request:  date time: 29/01/2024 21:04:11 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 29/01/2024 21:04:11 status code: 200
+the request:  date time: 29/01/2024 21:05:23 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:05:23 status code: 200
+the request:  date time: 29/01/2024 21:05:40 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:05:40 status code: 200
+the request:  date time: 29/01/2024 21:05:47 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:05:47 status code: 200
+the request:  date time: 29/01/2024 21:09:43 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:09:43 status code: 200
+the request:  date time: 29/01/2024 21:09:52 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:09:52 status code: 200
+the request:  date time: 29/01/2024 21:11:25 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:11:25 status code: 200
+the request:  date time: 29/01/2024 21:11:30 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:11:30 status code: 200
+the request:  date time: 29/01/2024 21:12:44 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:12:44 status code: 200
+the request:  date time: 29/01/2024 21:12:47 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:12:47 status code: 200
+the request:  date time: 29/01/2024 21:18:12 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:18:12 status code: 200
+the request:  date time: 29/01/2024 21:18:16 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:18:16 status code: 200
+the request:  date time: 29/01/2024 21:20:57 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:20:57 status code: 200
+the request:  date time: 29/01/2024 21:21:01 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:21:01 status code: 200
+the request:  date time: 29/01/2024 21:22:39 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:22:39 status code: 200
+the request:  date time: 29/01/2024 21:27:51 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:27:51 status code: 200
+the request:  date time: 29/01/2024 21:27:54 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:27:54 status code: 200
+the request:  date time: 29/01/2024 21:31:32 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:31:32 status code: 200
+the request:  date time: 29/01/2024 21:31:36 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:31:36 status code: 200
+the request:  date time: 29/01/2024 21:33:24 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:33:24 status code: 200
+the request:  date time: 29/01/2024 21:33:28 method: GET path: /api/pizza/GetById/6 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:33:28 status code: 200
+the request:  date time: 29/01/2024 21:47:41 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:47:41 status code: 200
+the request:  date time: 29/01/2024 21:47:44 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:47:44 status code: 200
+the request:  date time: 29/01/2024 21:51:04 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:51:04 status code: 200
+the request:  date time: 29/01/2024 21:51:28 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 21:51:28 status code: 400
+the request:  date time: 29/01/2024 21:51:33 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:51:33 status code: 200
+the request:  date time: 29/01/2024 21:51:37 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:51:38 status code: 200
+the request:  date time: 29/01/2024 21:51:43 method: GET path: /api/pizza/GetById/6 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:51:43 status code: 200
+the request:  date time: 29/01/2024 21:53:25 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:53:25 status code: 200
+the request:  date time: 29/01/2024 21:53:29 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:53:29 status code: 200
+the request:  date time: 29/01/2024 21:54:48 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 21:54:48 status code: 400
+the request:  date time: 29/01/2024 21:57:06 method: GET path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 21:57:06 status code: 405
+the request:  date time: 29/01/2024 21:58:03 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:58:03 status code: 200
+the request:  date time: 29/01/2024 21:58:07 method: GET path: /api/pizza/GetById/6 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:58:07 status code: 200
+the request:  date time: 29/01/2024 21:59:35 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:59:35 status code: 200
+the request:  date time: 29/01/2024 21:59:38 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:59:38 status code: 200
+the request:  date time: 29/01/2024 21:59:43 method: GET path: /api/pizza/GetById/8 protocol: HTTP/2
+the response:  date time: 29/01/2024 21:59:43 status code: 200
+the request:  date time: 29/01/2024 22:01:14 method: GET path: /api/pizza/GetById/4 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:01:14 status code: 200
+the request:  date time: 29/01/2024 22:01:17 method: GET path: /api/pizza/GetById/8 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:01:17 status code: 200
+the request:  date time: 29/01/2024 22:02:42 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:02:42 status code: 200
+the request:  date time: 29/01/2024 22:03:07 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:03:07 status code: 400
+the request:  date time: 29/01/2024 22:03:11 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:03:11 status code: 200
+the request:  date time: 29/01/2024 22:03:15 method: GET path: /api/pizza/GetById/8 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:03:15 status code: 200
+the request:  date time: 29/01/2024 22:03:19 method: GET path: /api/pizza/GetById/9 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:03:19 status code: 200
+the request:  date time: 29/01/2024 22:03:46 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the request:  date time: 29/01/2024 22:03:46 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the request:  date time: 29/01/2024 22:03:46 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:03:46 status code: 400
+the response:  date time: 29/01/2024 22:03:46 status code: 400
+the response:  date time: 29/01/2024 22:03:46 status code: 400
+the request:  date time: 29/01/2024 22:04:14 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:04:15 status code: 200
+the request:  date time: 29/01/2024 22:04:19 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:04:19 status code: 200
+the request:  date time: 29/01/2024 22:04:22 method: GET path: /api/pizza/GetById/7 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:04:22 status code: 200
+the request:  date time: 29/01/2024 22:05:01 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:05:01 status code: 400
+the request:  date time: 29/01/2024 22:07:34 method: GET path: /api/pizza/GetById/1 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:07:34 status code: 200
+the request:  date time: 29/01/2024 22:07:41 method: GET path: /api/pizza/GetById/12 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:07:41 status code: 200
+the request:  date time: 29/01/2024 22:09:05 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:09:05 status code: 200
+the request:  date time: 29/01/2024 22:09:10 method: GET path: /api/pizza/GetById/12 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:09:10 status code: 200
+the request:  date time: 29/01/2024 22:09:14 method: GET path: /api/pizza/GetById/11 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:09:14 status code: 200
+the request:  date time: 29/01/2024 22:10:25 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:10:25 status code: 400
+the request:  date time: 29/01/2024 22:13:00 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:13:00 status code: 200
+the request:  date time: 29/01/2024 22:13:06 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:13:06 status code: 200
+the request:  date time: 29/01/2024 22:13:56 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:13:56 status code: 400
+the request:  date time: 29/01/2024 22:14:32 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:14:32 status code: 400
+the request:  date time: 29/01/2024 22:16:38 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:16:38 status code: 200
+the request:  date time: 29/01/2024 22:17:04 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:17:04 status code: 400
+the request:  date time: 29/01/2024 22:17:09 method: GET path: /api/pizza/GetById/2 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:17:09 status code: 200
+the request:  date time: 29/01/2024 22:17:14 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:17:14 status code: 200
+the request:  date time: 29/01/2024 22:17:41 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:17:41 status code: 400
+the request:  date time: 29/01/2024 22:18:50 method: GET path: /api/pizza/GetById/5 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:18:50 status code: 200
+the request:  date time: 29/01/2024 22:18:54 method: GET path: /api/pizza/GetById/8 protocol: HTTP/2
+the response:  date time: 29/01/2024 22:18:54 status code: 200
+the request:  date time: 29/01/2024 22:19:26 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:19:26 status code: 400
+the request:  date time: 29/01/2024 22:19:40 method: POST path: /api/Order/SendOrder protocol: HTTP/2
+the response:  date time: 29/01/2024 22:19:40 status code: 400
+the request:  date time: 13/02/2024 10:23:03 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/02/2024 10:23:04 status code: 200
+the request:  date time: 13/02/2024 10:23:30 method: GET path: /api/pizza/get protocol: HTTP/2
+the response:  date time: 13/02/2024 10:23:30 status code: 200
